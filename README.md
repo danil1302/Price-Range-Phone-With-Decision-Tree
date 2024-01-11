@@ -1,7 +1,7 @@
 # **Prediksi Kisaran Harga Telepon Menggunakan Machine Learning**
 
 
-## **Technologies Used: **
+## **Technologies Used:**
 
 ### For Development
 * Python 3
@@ -27,4 +27,4 @@
 
 ## References
 *
-*For UI [Streamlit](https://streamlit.io/)
+* For UI [Streamlit](https://streamlit.io/)
